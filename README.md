@@ -1,0 +1,1 @@
+# MapStruct-and-Google-Truth-example
